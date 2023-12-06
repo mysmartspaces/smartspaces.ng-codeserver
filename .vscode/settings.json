@@ -3,5 +3,6 @@
     "editor.experimental.asyncTokenizationLogging": true,
     "editor.experimental.asyncTokenizationVerification": true,
     "editor.foldingImportsByDefault": true,
-    "multiDiffEditor.experimental.enabled": true
+    "multiDiffEditor.experimental.enabled": true,
+    "cmake.options.statusBarVisibility": "visible"
 }
