@@ -1,0 +1,7 @@
+{
+    "editor.definitionLinkOpensInPeek": true,
+    "editor.experimental.asyncTokenizationLogging": true,
+    "editor.experimental.asyncTokenizationVerification": true,
+    "editor.foldingImportsByDefault": true,
+    "multiDiffEditor.experimental.enabled": true
+}
